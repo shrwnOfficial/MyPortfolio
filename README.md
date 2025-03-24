@@ -1,7 +1,5 @@
 # Software developer | AIML Lover
 
-![Minion] (Screenshot 2024-10-03 182959.png)
-
 ### About Me
 💡Upcoming Associate Software Engineer Intern @ Iron Mountain | AI & ML Enthusiast
 
