@@ -35,7 +35,7 @@ I’m always open to collaborating on exciting projects, discussing tech trends,
   - Tools: NumPy, Pandas,TensorFlow, Gradio, Bi-LSTM, CNN.
 
 ### Skills
-***Programming languages***-  C, C++, Python (Intermediate)
+**Programming languages**-  C, C++, Python (Intermediate)
 MLandDLframeworks-      Intermediate in NumPy, Pandas, Tensorflow
 Container technology-   Docker (Basics)
 Cloud technology -      Azure (Basics)
