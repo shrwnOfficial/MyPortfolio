@@ -67,10 +67,10 @@ Linkedin**](https://www.linkedin.com/in/shrawanofficial/)
 [**![image](https://github.com/user-attachments/assets/9e9793c9-7360-4dcf-9fe2-62ae96e7ebfe)
 Gtihub**](https://github.com/shrwnOfficial)
 
-[**![image](https://github.com/user-attachments/assets/6876f8bc-5535-49ef-aa19-7a55975a66d5)
+[**![image](https://github.com/user-attachments/assets/85ccb494-460d-4845-b3fc-78d470ff031f)
 Leetcode**](https://leetcode.com/u/shaan_noob/)
 
-[**![image](https://github.com/user-attachments/assets/b8ecdd13-a572-4fba-9cbc-280a129d96f2)
+[**![image](https://github.com/user-attachments/assets/4513fd70-adf5-4813-8289-59b861aecd7e)
 Geeks4Geeks**](https://www.geeksforgeeks.org/user/shaan09042/)
 
 [**![image](https://github.com/user-attachments/assets/a1c72284-4e24-43f0-a42b-e7ac8277d375)
