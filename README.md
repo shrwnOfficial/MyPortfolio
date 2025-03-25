@@ -59,7 +59,7 @@ I’m always open to collaborating on exciting projects, discussing tech trends,
 ## Links 🔗
 
 [**![image](https://github.com/user-attachments/assets/7519966f-a56e-413c-80f5-29dbac317246)
-Mail**](shaan.09042@gmail.com)
+Mail**]: shaan.09042@gmail.com
 
 [**![image](https://github.com/user-attachments/assets/586bc859-6440-47c0-a0e1-3f5f78b0b210)
 Linkedin**](https://www.linkedin.com/in/shrawanofficial/)
