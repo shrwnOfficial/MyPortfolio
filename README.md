@@ -1,4 +1,5 @@
 # Software developer | AIML Lover 
+![Machine Learning](https://github.com/user-attachments/assets/74bb137b-1835-4dd8-b1ad-9de6645fdbd0)
 
 
 
