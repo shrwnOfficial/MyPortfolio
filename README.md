@@ -22,9 +22,10 @@ I’m always open to collaborating on exciting projects, discussing tech trends,
    Naduforexperimental purposes.
  - Enhancedmodelreliability by 15% through effective parameter tuning and data preprocessing.
  - Tools: NumPy, Pandas,TensorFlow, LSTM
+![Screenshot 2025-03-25 072519](https://github.com/user-attachments/assets/eeab4e3d-db9d-4222-a5b4-31d73503e2b8)
 ![Screenshot 2025-03-25 072609](https://github.com/user-attachments/assets/8fbfd1a8-ca82-4d99-9a23-05e3f767bb27)
 ![Screenshot 2025-03-25 072601](https://github.com/user-attachments/assets/aa59cc64-f989-4358-9e28-c1e1f0226a42)
-![Screenshot 2025-03-25 072519](https://github.com/user-attachments/assets/eeab4e3d-db9d-4222-a5b4-31d73503e2b8)
+
 
 ###  Fantasy IPL- BatsmanScorePrediction🏏                                                   Dec 2023 - Feb 2024
  - Built a deep learning model using Feed Forward Neural Network to predict batsmen scores in upcoming IPL matches,
