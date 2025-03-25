@@ -1,6 +1,9 @@
 # Software developer | AIML Lover
 ![Screenshot 2025-03-25 075130](https://github.com/user-attachments/assets/b4e6151b-b213-4384-a566-cc888b1ed10a)
 
+![My Logo](assets/Screenshot 2025-03-25 075130.png)
+
+
 ## About Me
 💡Upcoming Associate Software Engineer Intern @ Iron Mountain | AI & ML Enthusiast
 
