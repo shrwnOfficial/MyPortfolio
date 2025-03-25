@@ -1,8 +1,4 @@
 # Software developer | AIML Lover
-![Screenshot 2025-03-25 075130](https://github.com/user-attachments/assets/b4e6151b-b213-4384-a566-cc888b1ed10a)
-
-![My Logo](assets/Screenshot 2025-03-25 075130.png)
-
 
 ## About Me
 💡Upcoming Associate Software Engineer Intern @ Iron Mountain | AI & ML Enthusiast
@@ -60,13 +56,13 @@ I’m always open to collaborating on exciting projects, discussing tech trends,
 
 ## Links
 
-**Linkedin** -  https://www.linkedin.com/in/shrawanofficial/
+**Linkedin** -    https://www.linkedin.com/in/shrawanofficial/
 
-**Github** -    https://github.com/shrwnOfficial
+**Github** -      https://github.com/shrwnOfficial
 
-**Leetcode** -  https://leetcode.com/u/shaan_noob/
+**Leetcode** -    https://leetcode.com/u/shaan_noob/
 
-**Geek4geek** - https://www.geeksforgeeks.org/user/shaan09042/
+**Geeks4geeks** - https://www.geeksforgeeks.org/user/shaan09042/
 
-**Instagram** - https://www.instagram.com/shrwn_official/
+**Instagram** -   https://www.instagram.com/shrwn_official/
 
