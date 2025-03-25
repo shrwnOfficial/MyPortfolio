@@ -11,11 +11,11 @@ I’m always open to collaborating on exciting projects, discussing tech trends,
 
 ## Education 📚
 - B.M.S College Of Engineering - Basavanagudi, Bangalore, India|                 2025
-     | Bachelor of Engineering in Computer Science CGPA: 9.1/10
+     Bachelor of Engineering in Computer Science CGPA: 9.1/10
 - St Josephs IndianComposite - Vittal Malaya Road,Bangalore, India|         2019 - 21
-     | Percentage: 92.17
+     Percentage: 92.17
 - Sri Aurbindo Memorial - Banashankari, Bangalore, India|                   2018 - 19
-     | Percentage: 88.2
+     Percentage: 88.2
  
 ## Projects 📽️
 ### 1.Kaveri Insights- Advanced LSTM Predictions for Water Distribution💧  (__Apr 2024 - June 2024__)
