@@ -58,7 +58,8 @@ I’m always open to collaborating on exciting projects, discussing tech trends,
 
 ## Links 🔗
 
-[**Linkedin**](https://www.linkedin.com/in/shrawanofficial/)
+[**![image](https://github.com/user-attachments/assets/feb445b1-6b51-4561-bd7e-c6dffedc6567)
+Linkedin**](https://www.linkedin.com/in/shrawanofficial/)
 
 [**Gtihub**](https://github.com/shrwnOfficial)
 
