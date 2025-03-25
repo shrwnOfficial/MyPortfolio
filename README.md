@@ -10,11 +10,11 @@ I am a passionate software developer with expertise in C, C++, and Data Structur
 I’m always open to collaborating on exciting projects, discussing tech trends, and networking with like-minded professionals. Let’s connect!
 
 ## Education 📚
-- B.M.S College Of Engineering - Basavanagudi, Bangalore, India|                 2025
+- B.M.S College Of Engineering - Basavanagudi, Bangalore, India| (__2025__)
      Bachelor of Engineering in Computer Science CGPA: 9.1/10
-- St Josephs IndianComposite - Vittal Malaya Road,Bangalore, India|         2019 - 21
+- St Josephs IndianComposite - Vittal Malaya Road,Bangalore, India| (__2019 - 21__)
      Percentage: 92.17
-- Sri Aurbindo Memorial - Banashankari, Bangalore, India|                   2018 - 19
+- Sri Aurbindo Memorial - Banashankari, Bangalore, India| (__2018 - 19__)
      Percentage: 88.2
  
 ## Projects 📽️
@@ -67,10 +67,13 @@ Linkedin**](https://www.linkedin.com/in/shrawanofficial/)
 [**![image](https://github.com/user-attachments/assets/9e9793c9-7360-4dcf-9fe2-62ae96e7ebfe)
 Gtihub**](https://github.com/shrwnOfficial)
 
-[**Leetcode**](https://leetcode.com/u/shaan_noob/)
+[**![image](https://github.com/user-attachments/assets/6876f8bc-5535-49ef-aa19-7a55975a66d5)
+Leetcode**](https://leetcode.com/u/shaan_noob/)
 
-[**Geeks4Geeks**](https://www.geeksforgeeks.org/user/shaan09042/)
+[**![image](https://github.com/user-attachments/assets/b8ecdd13-a572-4fba-9cbc-280a129d96f2)
+Geeks4Geeks**](https://www.geeksforgeeks.org/user/shaan09042/)
 
-[**Instagram**](https://www.instagram.com/shrwn_official/)
+[**![image](https://github.com/user-attachments/assets/a1c72284-4e24-43f0-a42b-e7ac8277d375)
+Instagram**](https://www.instagram.com/shrwn_official/)
 
 
