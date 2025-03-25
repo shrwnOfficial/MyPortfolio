@@ -1,8 +1,5 @@
 # Software developer | AIML Lover 
-![MachineLearningArtificialIntelligenceGIF](https://github.com/user-attachments/assets/036e5b7b-ec56-42d2-9c91-d2e5c541b14f)
-
-
-
+https://media.giphy.com/media/DJs8z6pvCDE3dHnyPn/giphy.gif?cid=790b7611bjhxy63e20b3zwvor6sh31mrvohmcsvz90dzb5tp&ep=v1_gifs_search&rid=giphy.gif&ct=g
 
 ## About Me 🤝
 💡Upcoming Associate Software Engineer Intern @ Iron Mountain | AI & ML Enthusiast
