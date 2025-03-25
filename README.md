@@ -1,8 +1,6 @@
 # Software developer | AIML Lover 
 ![Machine Learning](https://github.com/user-attachments/assets/74bb137b-1835-4dd8-b1ad-9de6645fdbd0)
 
-
-
 ## About Me 🤝
 💡Upcoming Associate Software Engineer Intern @ Iron Mountain | AI & ML Enthusiast
 
@@ -11,12 +9,12 @@ I am a passionate software developer with expertise in C, C++, and Data Structur
 I’m always open to collaborating on exciting projects, discussing tech trends, and networking with like-minded professionals. Let’s connect!
 
 ## Education 📚
-- B.M.S College Of Engineering - Basavanagudi, Bangalore, India.                 2025
-     Bachelor of Engineering in Computer Science CGPA: 9.1/10
-- St Josephs IndianComposite - Vittal Malaya Road,Bangalore, India.         2019 - 21
-     Percentage: 92.17
-- Sri Aurbindo Memorial - Banashankari, Bangalore, India.                   2018 - 19
-     Percentage: 88.2
+- B.M.S College Of Engineering - Basavanagudi, Bangalore, India|                 2025
+     | Bachelor of Engineering in Computer Science CGPA: 9.1/10
+- St Josephs IndianComposite - Vittal Malaya Road,Bangalore, India|         2019 - 21
+     | Percentage: 92.17
+- Sri Aurbindo Memorial - Banashankari, Bangalore, India|                   2018 - 19
+     | Percentage: 88.2
  
 ## Projects 📽️
 ### 1.Kaveri Insights- Advanced LSTM Predictions for Water Distribution💧  (__Apr 2024 - June 2024__)
@@ -30,7 +28,7 @@ I’m always open to collaborating on exciting projects, discussing tech trends,
 ![Screenshot 2025-03-25 072601](https://github.com/user-attachments/assets/aa59cc64-f989-4358-9e28-c1e1f0226a42)
 
 
-###  2.Fantasy IPL- BatsmanScorePrediction🏏  (__Dec 2023 - Feb 2024)
+###  2.Fantasy IPL- BatsmanScorePrediction🏏  (__Dec 2023 - Feb 2024__)
  - Built a deep learning model using Feed Forward Neural Network to predict batsmen scores in upcoming IPL matches,
  providing valuable insights for team strategies and fantasy leagues.
  - Achieved85%prediction accuracy, enhancing team strategy planning and aiding fantasy league analytics.
