@@ -1,5 +1,5 @@
 # Software developer | AIML Lover
-![Screenshot 2025-03-25 075130](https://github.com/user-attachments/assets/b91bb361-6b80-4030-b961-96cfd0b427a6)
+![Screenshot 2025-03-25 075130](https://github.com/user-attachments/assets/e883b01d-8b41-48f6-9494-c894cd77c8a4)
 
 
 
