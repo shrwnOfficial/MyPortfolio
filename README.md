@@ -58,15 +58,13 @@ I’m always open to collaborating on exciting projects, discussing tech trends,
 
 ## Links 🔗
 
-**Linkedin** -    https://www.linkedin.com/in/shrawanofficial/
+[**Linkedin**](https://www.linkedin.com/in/shrawanofficial/)
 
-**Github** -      https://github.com/shrwnOfficial
+[**Gtihub**](https://github.com/shrwnOfficial)
 
-**Leetcode** -    https://leetcode.com/u/shaan_noob/
+[**Leetcode**](https://leetcode.com/u/shaan_noob/)
 
-**Geeks4geeks** - https://www.geeksforgeeks.org/user/shaan09042/
-
-
+[**Geeks4Geeks**](https://www.geeksforgeeks.org/user/shaan09042/)
 
 [**Instagram**](https://www.instagram.com/shrwn_official/)
 
