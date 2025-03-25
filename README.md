@@ -1,5 +1,7 @@
 # Software developer | AIML Lover
-![Screenshot 2024-10-03 182959](https://github.com/user-attachments/assets/4e84b684-ff3b-43da-b72e-20f1b2a011ae)
+![Screenshot 2025-03-25 075130](https://github.com/user-attachments/assets/b91bb361-6b80-4030-b961-96cfd0b427a6)
+
+
 
 
 ### About Me
