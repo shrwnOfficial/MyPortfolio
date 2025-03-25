@@ -1,5 +1,6 @@
 # Software developer | AIML Lover 
-![Machine Learning](https://github.com/user-attachments/assets/74bb137b-1835-4dd8-b1ad-9de6645fdbd0)
+![Research Alzheimers GIF by MIT](https://github.com/user-attachments/assets/8e474acc-4eaa-430a-940d-b90df721f610)
+
 
 ## About Me 🤝
 💡Upcoming Associate Software Engineer Intern @ Iron Mountain | AI & ML Enthusiast
