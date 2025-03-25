@@ -1,5 +1,6 @@
 # Software developer | AIML Lover 
-![MachineLearningArtificialIntelligenceGIF](https://github.com/user-attachments/assets/6be6a336-d2fa-4f3c-ac64-cdc36717d6f1)
+![RedGreenNeuralGIF](https://github.com/user-attachments/assets/b195da9a-cfdc-43ef-8574-3a54c8b0cfa0)
+
 
 
 ## About Me 🤝
