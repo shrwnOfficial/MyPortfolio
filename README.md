@@ -66,8 +66,8 @@ I’m always open to collaborating on exciting projects, discussing tech trends,
 
 **Geeks4geeks** - https://www.geeksforgeeks.org/user/shaan09042/
 
-**Instagram** -   https://www.instagram.com/shrwn_official/
 
-[INSTA](https://www.instagram.com/shrwn_official/)
+
+[**Instagram**](https://www.instagram.com/shrwn_official/)
 
 
