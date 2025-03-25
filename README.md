@@ -1,5 +1,5 @@
 # Software developer | AIML Lover 
-![download](https://github.com/user-attachments/assets/4c1be8d0-cd7d-450f-9aa4-6d0b10d1103a)
+
 
 
 ## About Me 🤝
