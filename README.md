@@ -3,7 +3,7 @@
 
 
 ## About Me 🤝
-💡Upcoming Associate Software Engineer Intern @ Iron Mountain | AI & ML Enthusiast
+💡Upcoming Associate Software Engineer Intern @ Iron Mountain | AI & ML | Web 3 | Blockchain | Finance enthusiast
 
 I am a passionate software developer with expertise in C, C++, and Data Structures & Algorithms, actively exploring Python, NumPy, and Pandas for data-driven solutions. I have the entrepreneurial zeal to provide value to the people and organizations that trust in me, ensuring impactful contributions and long-term growth.
 
