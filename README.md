@@ -3,11 +3,13 @@
 
 
 ## About Me 🤝
-💡Associate Software Engineer Intern @ Iron Mountain | AI & ML | Web 3 | Blockchain | Finance enthusiast
+I'm a Software Engineer with hands-on experience in full-stack web development and AI/ML. Skilled in C++, Python, DSA, System Design and SQL.
 
-I am a passionate software developer with expertise in C, C++, and Data Structures & Algorithms, actively exploring Python, NumPy, and Pandas for data-driven solutions. I have the entrepreneurial zeal to provide value to the people and organizations that trust in me, ensuring impactful contributions and long-term growth.
+I’m passionate about blending technology with finance to build meaningful, scalable solutions. With an entrepreneurial mindset, I enjoy creating high-impact products that deliver long-term value.
 
-I’m always open to collaborating on exciting projects, discussing tech trends, and networking with like-minded professionals. Let’s connect!
+I thrive in fast-paced, collaborative environments that encourage innovation and continuous learning. Outside of work, I enjoy chess, badminton, business case studies, and exploring entrepreneurship and finance.
+
+Always open to connecting, exchanging ideas, and collaborating on exciting projects. Let’s connect!
 
 ## Education 📚
 - B.M.S College Of Engineering - Basavanagudi, Bangalore, India| (__2025__)
