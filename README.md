@@ -1,4 +1,4 @@
-# Software developer | Breathing AIML
+# Software developer | Breathing AI
 ![Research Alzheimers GIF by MIT](https://github.com/user-attachments/assets/8e474acc-4eaa-430a-940d-b90df721f610)
 
 
